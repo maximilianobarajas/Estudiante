@@ -8,7 +8,7 @@ import (
 //Declaramos la estructura
 type Estudiante struct{
       
-    // defining struct variables
+    // definimos los atributos
     nombre string
     apellido string
     edad int
