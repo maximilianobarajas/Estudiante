@@ -1,6 +1,4 @@
 
-// Golang program to illustrate the
-// concept of custom types
 package main
   
 import (
